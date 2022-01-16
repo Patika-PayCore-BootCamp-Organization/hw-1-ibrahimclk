@@ -1,5 +1,5 @@
 # Patika PayCore Java Spring Bootcamp
-##Homework 1
+## Homework 1
 1. Why we need to use OOP ? Some major OOP languages ?
 2. Interface vs Abstract class ?
 3. Why wee need equals and hashcode ? When to override ?
